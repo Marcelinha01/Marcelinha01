@@ -1,4 +1,8 @@
-## Hi there 👋
+Olá! Sou a Marcela, desenvolvedora back-end em formação, com foco em Java e SQL.
+Também estudo HTML, CSS e JavaScript para entender bem o todo.
+Sempre em busca de novos desafios!
+
+Conecte-se comigo no LinkedIn: www.linkedin.com/in/marcela-carretti-77840b217
 
 <!--
 **Marcelinha01/Marcelinha01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
