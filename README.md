@@ -1,5 +1,5 @@
 Olá! Sou a Marcela, desenvolvedora back-end em formação, com foco em Java e SQL.
-Também estudo HTML, CSS e JavaScript para entender bem o todo.
+Também estudo HTML, CSS, JavaScript, Framework e desenvolvimento de APIs REST para entender bem o todo.
 Sempre em busca de novos desafios!
 
 Conecte-se comigo no LinkedIn: www.linkedin.com/in/marcela-carretti-77840b217
