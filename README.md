@@ -10,7 +10,11 @@ Também estudo **HTML**, **CSS**, **JavaScript**, frameworks e o desenvolvimento
 
 🚀 Sempre em busca de novos desafios e oportunidades para crescer profissionalmente!
 
-Conecte-se comigo no LinkedIn: www.linkedin.com/in/marcela-carretti-77840b217
+📬 Vamos colaborar!
+Estou sempre aberto a novas oportunidades, colaborações e discussões. Se você tem uma ideia de projeto, uma dúvida ou simplesmente quer se conectar, sinta-se à vontade para entrar em contato:
+
+E-mail: marcelacarretti8@gmail.com
+LinkedIn: www.linkedin.com/in/marcela-carretti-77840b217
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -60,4 +64,5 @@ Conecte-se comigo no LinkedIn: www.linkedin.com/in/marcela-carretti-77840b217
 <br/>
 <br/>
 
+Obrigado por visitar meu perfil! Vamos construir algo incrível juntos. 🚀
 
