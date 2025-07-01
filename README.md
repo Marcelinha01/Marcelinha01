@@ -12,9 +12,9 @@ Também estudo **HTML**, **CSS**, **JavaScript**, frameworks e o desenvolvimento
 
 Estou sempre aberto a novas oportunidades, colaborações e discussões. Se você tem uma ideia de projeto, uma dúvida ou simplesmente quer se conectar, sinta-se à vontade para entrar em contato:
 
-E-mail: marcelacarretti8@gmail.com
+**E-mail:** marcelacarretti8@gmail.com
 
-LinkedIn: www.linkedin.com/in/marcela-carretti-77840b217
+**LinkedIn:** www.linkedin.com/in/marcela-carretti-77840b217
 
 🚀 Sempre em busca de novos desafios e oportunidades para crescer profissionalmente!
 
