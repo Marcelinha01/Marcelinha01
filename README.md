@@ -1,7 +1,7 @@
 
 # 👨🏽‍💻 Marcela Carretti
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora Júnior`**
 
  👋 Olá! Eu sou a Marcela
 
