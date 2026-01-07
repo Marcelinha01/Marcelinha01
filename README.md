@@ -16,6 +16,8 @@ Estou sempre aberto a novas oportunidades, colaborações e discussões. Se voc�
 
 **LinkedIn:** www.linkedin.com/in/marcela-carretti-77840b217
 
+**Potfolio:** https://marcelinha01.github.io/portfolio-marcela/
+
 🚀 Sempre em busca de novos desafios e oportunidades para crescer profissionalmente!
 
 ### 🤖 Linguagens e Tecnologias
